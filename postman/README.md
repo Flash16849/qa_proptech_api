@@ -1,6 +1,4 @@
-## Test
-
-### Setup
+## Test Setup
 
 1. Import `PropTech.postman_collection.json` into Postman
 2. Create a new environment with the following variables (leave empty — auto-set during collection run):
