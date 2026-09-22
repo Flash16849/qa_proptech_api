@@ -14,11 +14,12 @@ This repository serves as a practical showcase of my transition from Software De
 ## Test Case Design
 Over 30+ test cases designed and structured within Zephyr Scale. Test cases utilize dynamic parameters like {id} and {base_url} to ensure high reusability and maintainability.
 
-👉 [Replace this line with your screenshot of Zephyr Scale Test Cases list]![Zephyr Scale Test Cases](link_den_anh_1_cua_ban.png)
+<img width="1610" height="832" alt="image" src="https://github.com/user-attachments/assets/be69f6ae-ea1a-4e1d-b8f7-e99efef22886" />
 
 
-## Requirements Traceability
-All test cases are directly mapped to Agile requirements (Jira User Stories) to guarantee 100% test coverage and full traceability (e.g., PRO-1: Real Estate Search & Filter, PRO-2: Real Estate Profile Update).
+## Requirements Traceability & Defect Tracking
+All test cases are mapped directly to Agile requirements (**Jira User Stories**) to ensure full coverage.
+Additionally, **all 7 defects discovered during testing are logged and tracked** directly on the Jira Kanban Board to maintain software quality.
 
 👉 [Replace this line with your screenshot of Zephyr Traceability Matrix or Jira Kanban Board]![Jira Kanban Board](link_den_anh_2_cua_ban.png)
 
