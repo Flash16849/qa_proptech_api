@@ -2,7 +2,7 @@
 
 **Severity:** High  
 **Status:** Open  
-**Reported:** 05/2026
+**Reported:** 09/2026
 
 | Field | Detail |
 |---|---|
