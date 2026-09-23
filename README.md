@@ -14,14 +14,16 @@ This repository serves as a practical showcase of my transition from Software De
 ## Test Case Design
 Over 30+ test cases designed and structured within Zephyr Scale. Test cases utilize dynamic parameters like {id} and {base_url} to ensure high reusability and maintainability.
 
-<img width="1610" height="832" alt="image" src="https://github.com/user-attachments/assets/be69f6ae-ea1a-4e1d-b8f7-e99efef22886" />
+<img width="1610" height="832" alt="Test cases" src="https://github.com/user-attachments/assets/be69f6ae-ea1a-4e1d-b8f7-e99efef22886" />
 
 
 ## Requirements Traceability & Defect Tracking
 All test cases are mapped directly to Agile requirements (**Jira User Stories**) to ensure full coverage.
 Additionally, **all 7 defects discovered during testing are logged and tracked** directly on the Jira Kanban Board to maintain software quality.
 
-👉 [Replace this line with your screenshot of Zephyr Traceability Matrix or Jira Kanban Board]![Jira Kanban Board](link_den_anh_2_cua_ban.png)
+<img width="1621" height="742" alt="Jira test management homepage" src="https://github.com/user-attachments/assets/0f11ddd8-7327-4f14-9883-e2a34fe1fd41" /><br><br>
+
+<img width="1265" height="752" alt="Traceability" src="https://github.com/user-attachments/assets/440a9c15-0d28-425a-952c-93b5e0b58df0" />
 
 
 ## API Testing & Automation (Postman)
