@@ -28,5 +28,4 @@ Additionally, **all 7 defects discovered during testing are logged and tracked**
 
 ## API Testing & Automation (Postman)
 Seamless API request chaining (extracting tokens/IDs from previous responses to inject into subsequent requests).Robust environment configuration using data-driven approaches.
-#### (Note: Postman Collection and instructions are located in the /postman folder of this repository).
 
