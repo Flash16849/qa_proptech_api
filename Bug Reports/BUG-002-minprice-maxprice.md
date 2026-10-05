@@ -1,6 +1,7 @@
 # BUG-002: No Validation for minPrice Greater Than maxPrice
 
-**Severity:** Low  
+**Severity:** High  
+**Priority:** Medium  
 **Status:** Fixed  
 **Reported:** 09/2026
 
