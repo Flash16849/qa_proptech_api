@@ -19,7 +19,7 @@ Over 30+ test cases designed and structured within Zephyr Scale. Test cases util
 
 ## Requirements Traceability & Defect Tracking
 All test cases are mapped directly to Agile requirements (**Jira User Stories**) to ensure full coverage.
-Additionally, **all 7 defects discovered during testing are logged and tracked** directly on the Jira Kanban Board to maintain software quality.
+Additionally, **all 5 defects discovered during testing are logged and tracked** directly on the Jira Kanban Board to maintain software quality.
 
 <img width="1621" height="742" alt="Jira test management homepage" src="https://github.com/user-attachments/assets/0f11ddd8-7327-4f14-9883-e2a34fe1fd41" /><br><br>
 
